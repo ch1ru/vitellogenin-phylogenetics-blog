@@ -1,0 +1,26 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+canis_lupus_familiaris      AACTTAACTTC-AGAAAGGGACGATTTATAGTTCTAAATA-AGAAAGGAT
+loxodonta_africana          ---------------AAGG-----TTTATGGTCCTAAATATAAAAAGTAT
+dasypus_novemcinctus        AACCTAACTTCCAGAAAGGGAAGATTTATAGTTCTAAATAT-GGAAGTAT
+homo_sapiens                AACCTAACTTCCAGAAAGGG-TGACTTATGATTCTAAATAT-GAAAGTAC
+                                           ****      ****  * *******    *** * 
+
+canis_lupus_familiaris      ATTTCTGATGGACGGCCACAATCATGCTTGGAAAAACTGGGATGTGGGTG
+loxodonta_africana          ATTTCTAGTGGACTGCCACAATT-TACTTGGAAGAACTGGGATGTAGATG
+dasypus_novemcinctus        ATTTCCAGTGGACTGCTACAACAGTACTTGGAAGAGCTGGGATATAAATG
+homo_sapiens                ATTTCTAGTGTATTTCCACAACAGTACTTAGAAGACCTGGGATGTAAACA
+                            *****   ** *   * ****   * *** *** * ******* *     
+
+canis_lupus_familiaris      AAAAGTAAAGTAGAAATCACTGGCCCTGATCTAAAACCCAGTCTCATTAG
+loxodonta_africana          AAAAGTAAAGTGGAAATCGTTGGCACAGATCTAAAATCCAGCTTTATTAG
+dasypus_novemcinctus        AGAAGTACAGTAGAAATCTCTGGCACTGTTCTAAAATCGAGTCTTATTAG
+homo_sapiens                AAAAGTAAAGTAGAAGTCACTGGCACAGATCTGAAACCAAGTTTTATTAA
+                            * ***** *** *** **  **** * * *** *** * **  * **** 
+
+canis_lupus_familiaris      G
+loxodonta_africana          G
+dasypus_novemcinctus        T
+homo_sapiens                G
+                             
